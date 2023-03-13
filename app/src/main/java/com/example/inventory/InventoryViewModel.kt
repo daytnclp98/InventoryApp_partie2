@@ -20,7 +20,7 @@ import androidx.lifecycle.*
 import com.example.inventory.data.Item
 import com.example.inventory.data.ItemDao
 import kotlinx.coroutines.launch
-
+//Dayanna TENECELA
 /**
  * View Model to keep a reference to the Inventory repository and an up-to-date list of all items.
  *
